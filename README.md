@@ -1,0 +1,4 @@
+TwitterVisualiser
+=================
+
+This is a University Interaction Design Project which is a twitter visualisation tool that uses Processing. This tool visualises conversational relationship between twitter users.
